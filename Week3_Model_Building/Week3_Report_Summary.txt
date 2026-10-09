@@ -1,0 +1,4 @@
+Week 3 Report: Feature Engineering and Model Building
+
+Summary:
+Week 3 focused on modeling execution and advanced feature creation. To improve baseline performance, categorical 'Sex' features were mapped to numeric representations. Additionally, 'FamilySize' and 'IsAlone' features were constructed to capture complex social dynamics. A baseline Random Forest Classifier trained on these selected attributes generated a strong test accuracy of 76.77%, highlighting the powerful predictive capabilities of engineered features over unprocessed attributes.

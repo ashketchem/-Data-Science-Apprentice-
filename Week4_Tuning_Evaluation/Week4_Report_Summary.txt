@@ -1,0 +1,4 @@
+Week 4 Report: Advanced Model Evaluation and Hyperparameter Tuning
+
+Summary:
+The final week delivered rigorous evaluation and optimization. Implementing a 5-fold cross-validation demonstrated stable model generalization with a mean score of 80.77%. Applying a systematic GridSearchCV hyperparameter search successfully selected optimized estimators and restriction thresholds, resulting in a finalized test accuracy of 81.29%. The classification report highlighted strong performance, particularly with 93% recall on non-survivors, validating the system as highly reliable.

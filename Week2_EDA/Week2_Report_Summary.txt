@@ -1,0 +1,4 @@
+Week 2 Report: Exploratory Data Analysis and Visualization
+
+Summary:
+During Week 2, exploratory data analysis was conducted to uncover significant patterns impacting passenger survival rates. Gender emerged as an exceptionally strong predictor, with female passengers showing a drastically higher survival rate compared to males. Correlation heatmap visualizations illustrated negative correlations between socio-economic status (Pclass) and survival, proving that upper-class passengers were highly prioritized. These key insights establish solid rationale for engineered gender and family relationships in subsequent modeling phases.

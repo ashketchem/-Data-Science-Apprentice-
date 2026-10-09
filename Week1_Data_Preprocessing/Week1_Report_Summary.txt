@@ -1,0 +1,4 @@
+Week 1 Report: Data Acquisition and Pre-processing
+
+Summary:
+This week's task established a robust data preprocessing pipeline targeting the public Titanic dataset. Incomplete observations were systematically handled by imputing missing 'Age' records with the median, and 'Embarked' ports with the mode, while dropping the 'Cabin' column due to an excessive missingness rate (>75%). Outlier filtering using the Interquartile Range (IQR) on 'Fare' removed extreme anomalies, and numerical scaling using StandardScaler normalized key features. This ensures model metrics are not disproportionately skewed, yielding a clean dataset of 775 instances ready for evaluation.
